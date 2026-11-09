@@ -63,12 +63,28 @@ Departments included:
 
 ## Dashboard Previews
 
-The Power BI report contains two pages:
+### 1. Excel Financial Dashboard
 
-- **Finance Performance Dashboard:** Financial KPIs, revenue and expenses trends, department performance, and expense analysis.
-- **Financial Analysis:** Budget comparison, revenue variance, department profitability, and revenue contribution.
+![Excel Dashboard](screenshots/excel_dashboard.png)
 
-See the `screenshots/` folder for dashboard previews.
+[View / Download Excel Dashboard](<Excel/Finance Performance Analysis.xlsx>)
+
+---
+
+### 2. Power BI — Finance Performance Dashboard
+
+![Power BI Dashboard](screenshots/powerbi_dashboard_page1.png)
+
+[Download Power BI Dashboard](<Power BI/finance_dashboard.pbix>)
+
+---
+
+### 3. Power BI — Financial Analysis
+
+![Power BI Financial Analysis](screenshots/powerbi_dashboard_page2.png)
+
+[Download Power BI Report](<Power BI/finance_dashboard.pbix>)  
+
 
 ## Project Structure
 
