@@ -22,6 +22,23 @@ The project demonstrates how financial data can be transformed into meaningful b
 - **Microsoft Excel:** Data analysis, PivotTables, KPI calculations, and dashboard creation.
 - **Power BI:** Interactive dashboards, DAX measures, data modelling, and visualisation.
 
+## SQL Analysis
+
+Completed 20 SQL analysis questions using MySQL to evaluate financial performance across five departments.
+
+Key areas of analysis:
+
+- Total revenue, expenses, and net profit calculations.
+- Department-wise revenue and expense analysis.
+- Monthly financial performance and expense trends.
+- Actual revenue versus budget comparisons.
+- Expense category analysis.
+- Department profitability ranking.
+- Budget variance and achievement analysis.
+- Revenue-to-expense ratio calculations.
+
+**SQL File:** [View SQL Analysis](SQL/finance_analysis.sql)
+
 ## Dataset
 
 The project uses a synthetic financial dataset covering January–December 2025.
@@ -67,7 +84,7 @@ Departments included:
 
 ![Excel Dashboard](screenshots/excel_dashboard.png)
 
-[View / Download Excel Dashboard](<Excel/Finance Performance Analysis.xlsx>)
+[Excel/Finance Performance Analysis.xlsx](<Excel/Finance Performance Analysis.xlsx>)
 
 ---
 
@@ -75,7 +92,7 @@ Departments included:
 
 ![Power BI Dashboard](screenshots/powerbi_dashboard_page1.png)
 
-[Download Power BI Dashboard](<Power BI/finance_dashboard.pbix>)
+[Power BI/finance_dashboard.pbix](<Power BI/finance_dashboard.pbix>)
 
 ---
 
@@ -83,7 +100,7 @@ Departments included:
 
 ![Power BI Financial Analysis](screenshots/powerbi_dashboard_page2.png)
 
-[Download Power BI Report](<Power BI/finance_dashboard.pbix>)  
+[Power BI/finance_dashboard.pbix](<Power BI/finance_dashboard.pbix>)  
 
 
 ## Project Structure
@@ -101,7 +118,7 @@ finance-performance-budget-analysis/
 │   └── finance_analysis.sql
 │
 ├── Excel/
-│   └── Finance_Performance_Analysis.xlsx
+│   └── Finance Performance Analysis.xlsx
 │
 ├── Power BI/
 │   └── finance_dashboard.pbix
@@ -109,7 +126,7 @@ finance-performance-budget-analysis/
 ├── screenshots/
 │
 └── README.md
-```
+``` 
 
 ## Skills Demonstrated
 
